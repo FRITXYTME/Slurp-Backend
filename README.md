@@ -1,36 +1,32 @@
-![Banner](https://i.ibb.co/bgZWZT0/B07-DF3-FC-D2-E7-4-AD5-9935-04-C441-BDFEBD.png)
+This backend is made by Lawin / Zetax
 
-[![pnpm](https://img.shields.io/badge/maintained%20with-pnpm-cc00ff.svg?style=for-the-badge&logo=pnpm)](https://pnpm.io/) 
-![Size](https://img.shields.io/github/repo-size/Nexus-FN/Momentum?label=Size&style=for-the-badge)
-![Visits](https://komarev.com/ghpvc/?username=Nexus-FN&style=for-the-badge)
+# FRITXYS NOTE DOWN BELOW
 
-### Momentum has been discontinued.
-### For a new and improved backend, use https://github.com/simplyzetax/Aphrodite
+Hey guys this momentum fork is just for people who ACCTUALY want a 1:1 OGFN For ThemSelves And their project so this backend will emulate a 1:1 OGFN server and momentum or lawin might shut me down
+so please if using this backend credits to FRITXY LAWIN ZETAX thanks that would be nice now the backend may have issues cuz its new so please be patient to what happens with it
 
-Momentum is a fork and partial rewrite of the Fortnite Backend LawinServerV2. It is designed to enhance stability, offer production-ready features, and be blazingly fast. 🔥
+# FEATURES IN THE BACKEND
 
-Join our discord at https://discord.gg/7njfwrAqTd
+* Itemshops
+* Accounts starting with 1500 vbucks
+* XMPP Working
+* Working Matchmaker
+* Fast Loading
+* Lobby is enabled and dosent skip
+* Simulates A 1:1 OGFN Backend
+* And so much more
 
-Huge thanks to @thisisanto on Discord for the ESM rewrite and many code improvements!
+# COMMING SOON !?
 
-## Features
+* Friends
+* Built In Status
+* Parties 100% workin
+* queue times
+* priority queues
+* battle pass
+* better MCP
+* AND WAY MORE
 
-- [x] Super fast and lightweight
-- [x] Robust account system
-- [x] Easy to use and set up
-- [x] Customizable
-- [x] Frequently updated
-- [x] 2FA Feature
-- [x] New item shop every day **automatically**
-- [x] Fully featured matchmaker with queue
-- [x] Working gifting
-
-## Installation
-
-<p align="center">
-    <a href="https://docs.nexusfn.net"><img src="https://cdn.nexusfn.net/file/2023/07/prodcos.png" alt="Prod install" width=960 /></a>
-</p>
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Nexus-FN/Momentum&type=Date)](https://star-history.com/#Nexus-FN/Momentum&Date)
+DM ME ON DISCORD IF YOU HAVE ANY QUESTIONS 
+Discord User: fritxy_tme.
+Thanks
