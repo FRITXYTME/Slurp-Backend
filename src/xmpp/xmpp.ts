@@ -49,7 +49,7 @@ app.get("/clients", (req, res) => {
 });
 
 wss.on('listening', () => {
-    logger.xmpp(`XMPP and Matchmaker started listening on port ${port}`);
+    logger.xmpp(`Slurp Backend is Listening To XMPP and Matchmaker started listening on port ${port}`);
 });
 
 wss.on('connection', async (ws, req) => {
