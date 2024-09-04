@@ -30,11 +30,11 @@ export async function execute(interaction: ChatInputCommandInteraction) {
         await mmcodes.deleteOne({ code_lower: code.toLowerCase() });
 
         const embed = new EmbedBuilder()
-            .setTitle("Code deleted")
+            .setTitle("Slurp Code deleted")
             .setDescription(`Your code \`${code}\` has been deleted`)
             .setColor("#2b2d31")
             .setFooter({
-                text: "Momentum",
+                text: "Slurp",
                 iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
             })
             .setTimestamp();
