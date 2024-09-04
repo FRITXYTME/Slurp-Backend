@@ -38,8 +38,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
 		.setDescription("Successfully changed the amount of vbucks for <@" + selectedUserId + "> by " + vbucks)
 		.setColor("#2b2d31")
 		.setFooter({
-			text: "Momentum",
-			iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
+			text: "Slurp",
+			iconURL: "https://th.bing.com/th/id/OIP.pBqz5q0UL4_9cG7iPhcAXAHaEK?rs=1&pid=ImgDetMain",
 		})
 		.setTimestamp();
 
