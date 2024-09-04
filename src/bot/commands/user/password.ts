@@ -16,7 +16,7 @@ export async function execute(interaction: ChatInputCommandInteraction) {
 
 	const plainPassword = interaction.options.getString('password')!;
 
-	if (plainPassword.length >= 128) return interaction.reply({ content: "You do not need a 128 character password", ephemeral: true });
+	if (plainPassword.length >= 128) return interaction.reply({ content: "You do not need a 128 character password :/ ", ephemeral: true });
 	if (plainPassword.length < 8) return interaction.reply({ content: "Your password has to be at least 8 characters long.", ephemeral: true });
 
 	const hashedPassword = await bcrypt.hash(plainPassword, 10);
@@ -28,7 +28,7 @@ export async function execute(interaction: ChatInputCommandInteraction) {
 		.setDescription("Your account password has been changed")
 		.setColor("#2b2d31")
 		.setFooter({
-			text: "Momentum",
+			text: "Slurp",
 			iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
 		})
 		.setTimestamp();
