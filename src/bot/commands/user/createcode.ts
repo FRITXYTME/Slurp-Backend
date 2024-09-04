@@ -6,7 +6,7 @@ import mmcodes from '../../../model/mmcodes.js';
 
 export const data = new SlashCommandBuilder()
     .setName('createcode')
-    .setDescription('Creates a custom matchmaking code')
+    .setDescription('Creates a custom matchmaking code for slurp')
     .addStringOption(option =>
         option.setName('code')
             .setDescription('Your desired code')
@@ -54,8 +54,8 @@ export async function execute(interaction: ChatInputCommandInteraction) {
         await newCode.save();
 
         const embed = new EmbedBuilder()
-            .setTitle("Code created")
-            .setDescription(`Your code has been created. You can now use it to host games.`)
+            .setTitle("Slurp Code created")
+            .setDescription(`Your Slurp Code Has Been Created Enjoy.`)
             .setColor("#2b2d31")
             .addFields([
                 {
@@ -75,7 +75,7 @@ export async function execute(interaction: ChatInputCommandInteraction) {
                 }
             ])
             .setFooter({
-                text: "Momentum",
+                text: "Slurp",
                 iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
             })
             .setTimestamp();
