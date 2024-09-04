@@ -30,3 +30,6 @@ so please if using this backend credits to FRITXY LAWIN ZETAX thanks that would 
 DM ME ON DISCORD IF YOU HAVE ANY QUESTIONS 
 Discord User: fritxy_tme.
 Thanks
+
+# PLEASE GIVE CREDITS TO ZETAX AND LAWIN 
+# YOU CAN GIVE ME CREDITS BUT YOU DONT NEED TO JUST GIVE LAWIN AND ZETAX
