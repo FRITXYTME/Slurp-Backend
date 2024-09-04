@@ -12,7 +12,7 @@
       "attributes": {
         "platform": "EpicPC"
       },
-      "quantity": 0
+      "quantity": 1500
     },
     "Token:FounderChatUnlock": {
       "templateId": "Token:FounderChatUnlock",
