@@ -11,7 +11,7 @@ import Profiles from '../../../model/profiles.js';
 
 export const data = new SlashCommandBuilder()
     .setName('account')
-    .setDescription('Shows you your account information');
+    .setDescription('Shows your slurp account details');
 
 export async function execute(interaction: ChatInputCommandInteraction) {
 
@@ -42,7 +42,7 @@ export async function execute(interaction: ChatInputCommandInteraction) {
 
         const embed = new EmbedBuilder()
             .setTitle("Your account")
-            .setDescription("These are your account details")
+            .setDescription("These are your account details for Slurp")
             .setColor("#2b2d31")
             .addFields([
                 {
@@ -66,7 +66,7 @@ export async function execute(interaction: ChatInputCommandInteraction) {
             ])
             .setThumbnail(icon)
             .setFooter({
-                text: "Momentum",
+                text: "Slurp Backend",
                 iconURL: "https://cdn.discordapp.com/app-assets/432980957394370572/1084188429077725287.png",
             })
             .setTimestamp();
