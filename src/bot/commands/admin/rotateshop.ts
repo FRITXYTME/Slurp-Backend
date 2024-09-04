@@ -69,3 +69,5 @@ export async function execute(interaction: ChatInputCommandInteraction) {
 
     await interaction.followUp({ content: "The item shop has been rotated!", files: [attachment], ephemeral: false });
 }
+
+# DONT THINK IT WORKS WELL IT DOES BUT REQUIRES MORE SETUP FROM FRITXY :)
