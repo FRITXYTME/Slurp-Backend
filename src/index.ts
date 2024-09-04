@@ -45,7 +45,7 @@ if (Safety.env.USE_REDIS) {
         tokens = destr(redisTokens);
     } catch (err) {
         await kv.set('tokens', fs.readFileSync(path.join(__dirname, "../tokens.json")).toString());
-        log.error("Redis tokens error, resetting tokens.json");
+        log.error("Slurp Redis tokens error, resetting tokens.json");
     }
 } else {
     tokens = destr(fs.readFileSync(path.join(__dirname, "../tokens.json")).toString());
@@ -90,7 +90,7 @@ mongoose
 
 mongoose.connection.on("error", (err) => {
     log.error(
-        "MongoDB failed to connect, please make sure you have MongoDB installed and running."
+        "Slurp Failed To Connect To MongoDB please make sure you have MongoDB installed and running."
     );
     throw err;
 });
@@ -128,11 +128,11 @@ await importRoutes("routes");
 await importRoutes("api");
 
 app.listen(PORT, () => {
-    log.backend(`App started listening on port ${PORT}`);
+    log.backend(`Slurp App started listening on port ${PORT}`);
     import("./xmpp/xmpp.js");
 }).on("error", async (err) => {
     if (err.message == "EADDRINUSE") {
-        log.error(`Port ${PORT} is already in use!\nClosing in 3 seconds...`);
+        log.error(`Slurp Port ${PORT} is already in use!\nClosing in 3 seconds...`);
         await functions.sleep(3000)
         process.exit(0);
     } else throw err;
