@@ -2,25 +2,25 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:"
+            "AthenaCharacter:CID_620_Athena_Commando_L_BigChuggus"
         ],
         "price": 0
     },
     "daily2": {
         "itemGrants": [
-            "AthenaCharacter:"
+            "AthenaCharacter:CID_570_Athena_Commando_M_SlurpMonster"
         ],
         "price": 0
     },
     "daily3": {
         "itemGrants": [
-            "AthenaCharacter:"
+            "AthenaPickaxe:Pickaxe_ID_020_Keg"
         ],
         "price": 0
     },
     "daily4": {
         "itemGrants": [
-            "AthenaDance:"
+            "AthenaPickaxe:Pickaxe_ID_291_SlurpMonster"
         ],
         "price": 0
     },
