@@ -9,8 +9,8 @@
             "_type": "CommonUI Simple Message",
             "message": {
                 "_type": "CommonUI Simple Message Base",
-                "title": "Momentum",
-                "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                "title": "Slurp!",
+                "body": "Backend Made By Lawin/Zetax Customized By FRITXY"
             }
         },
         "_activeDate": "2017-07-19T13:14:04.490Z",
@@ -209,21 +209,21 @@
             "_type": "Battle Royale News",
             "messages": [
                 {
-                    "image": "https://cdn.discordapp.com/attachments/927739901540188200/930882355818823720/1_of9OCSRWoAoS3_lNVKqM2g.png",
+                    "image": "https://images.genius.com/a2387f82db923e042495cac8dd4587ac.540x540x1.png",
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "DISCORD!",
                     "title": "Join my discord server!",
-                    "body": "https://discord.gg/KJ8UaHZ",
+                    "body": "https://discord.gg/XzFXb57j",
                     "spotlight": false
                 },
                 {
-                    "image": "https://cdn.discordapp.com/attachments/927739901540188200/930882658546876506/lawin.jpg",
+                    "image": "https://images.genius.com/a2387f82db923e042495cac8dd4587ac.540x540x1.png",
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momentum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Slurp!",
+                    "body": "Backend Made By Lawin/Zetax Customized By FRITXY",
                     "spotlight": false
                 }
             ]
@@ -1224,8 +1224,8 @@
                 {
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Slurp",
+                    "body": "Backend Made By Lawin/Zetax Customized By FRITXY",
                     "spotlight": true
                 }
             ]
@@ -1249,8 +1249,8 @@
                     "gamemodes": [],
                     "hidden": false,
                     "_type": "CommonUI Emergency Notice Base",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010"
+                    "title": "Slurp",
+                    "body": "Backend Made By Lawin/Zetax Customized By FRITXY"
                 }
             ]
         },
@@ -5982,8 +5982,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Slurp",
+                    "body": "Backend Made By Lawin/Zetax Customized By FRITXY",
                     "spotlight": false
                 }
             ]
@@ -6067,8 +6067,8 @@
                     "hidden": false,
                     "_type": "CommonUI Simple Message Base",
                     "adspace": "ENJOY!",
-                    "title": "Momemtum",
-                    "body": "Backend by Lawin and simplyzetax. https://github.com/Nexus-FN/Momentum. Original author: @lawin_010",
+                    "title": "Slurp",
+                    "body": "Backend Made By Lawin/Zetax Customized By FRITXY",
                     "spotlight": false
                 }
             ]
